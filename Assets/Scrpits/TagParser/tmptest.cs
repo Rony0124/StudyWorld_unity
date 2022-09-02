@@ -27,9 +27,10 @@ public class tmptest : MonoBehaviour, IPointerClickHandler
     {
         int linkIndex = TMP_TextUtilities.FindIntersectingLink(m_TextMeshPro, Input.mousePosition, m_Camera);
 
+        TMP_LinkInfo aa = m_TextMeshPro.textInfo.linkInfo[linkIndex];
         if (linkIndex != -1)
         {
-            Debug.Log("djdjfdj");
+            Debug.Log(aa.GetLinkID());
         }
     }
 }
