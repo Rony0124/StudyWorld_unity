@@ -8,7 +8,7 @@ namespace LSP {
         public int speed;
         public Vector3 direction;
 
-        public void Move() {
+        public virtual void Move() {
             
         }
 
@@ -16,8 +16,17 @@ namespace LSP {
             if (super.GetType() == typeof(DerivedClass)) {
                 return;
             }
+        }
+
+        public virtual int Read() {
+            var i = 10;
+
+            while (i == 0) {
+                Debug.Log(i);
+                i--;
+            }
             
-       
-        } 
+            return i;
+        }
     }
 }

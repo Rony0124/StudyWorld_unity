@@ -12,5 +12,9 @@ namespace LSP {
         private void MoveModel(SuperClass super) {
             super.Move();
         }
+
+        private static void Calc(SuperClass super) {
+            super.Read();
+        }
     }
 }
