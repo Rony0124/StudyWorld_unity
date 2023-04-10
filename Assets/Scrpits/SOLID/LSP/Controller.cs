@@ -14,7 +14,9 @@ namespace LSP {
         }
 
         private static void Calc(SuperClass super) {
-            super.Read();
+            while (super.Read() != 0) {
+                Debug.Log("?");
+            }
         }
     }
 }

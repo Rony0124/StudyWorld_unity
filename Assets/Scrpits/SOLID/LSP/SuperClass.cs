@@ -19,14 +19,8 @@ namespace LSP {
         }
 
         public virtual int Read() {
-            var i = 10;
-
-            while (i == 0) {
-                Debug.Log(i);
-                i--;
-            }
-            
-            return i;
+            // blah blah
+            return 0;
         }
     }
 }
