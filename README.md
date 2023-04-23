@@ -12,7 +12,6 @@ Thus, studying in Unity world would help you better understand what you try to l
 5. Singleton -> Singleton Mono
 6. Struct
 7. TagParser
-8. Struct
-9. Tagparser by applying Stack calculator
-10. Value & Ref
-11. SOLID with Unity
+8. Tagparser by applying Stack calculator
+9. Value & Ref
+10. SOLID with Unity
