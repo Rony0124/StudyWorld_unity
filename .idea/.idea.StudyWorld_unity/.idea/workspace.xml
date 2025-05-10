@@ -4,19 +4,113 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb1470b-f174-4301-bf49-1036c1bf047f" name="Changes" comment="" />
+    <list default="true" id="fcb1470b-f174-4301-bf49-1036c1bf047f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Async.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Async/AsyncBreakfast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Async/AsyncBreakfast.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Bit_Build.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Bit_Build/Bit_Builder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Bit_Build/Bit_Builder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/Booster.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/Booster.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/Character.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/Character.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/LambdaExpression.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/LambdaExpression.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovPlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovPlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor/SimpleUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor/SimpleUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor/StackCalculator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor/StackCalculator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/Bullet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/Bullet.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/ObjectPool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/ObjectPool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/Shooter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/Shooter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/EventHolder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/EventHolder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/EventListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/EventListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/GameEvent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/GameEvent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/Door.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/Door.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/ISwitchable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/ISwitchable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/Switch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/Switch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IA.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IA.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IUnit.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IUnit.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/Controller.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/Controller.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/DerivedClass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/DerivedClass.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/SuperClass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/SuperClass.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/SingleResponsibility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/SingleResponsibility/MonolithicDebugger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/SingleResponsibility/MonolithicDebugger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Singleton.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Singleton/SingletonMono.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Singleton/SingletonMono.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Struct.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Struct/Struct.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Struct/Struct.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser/TagParser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser/TagParser.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser/tmptest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser/tmptest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Value&amp;Ref.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Value&amp;Ref/OOPEx.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Value&amp;Ref/OOPEx.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scrpits/Wire/MathUtil.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -29,24 +123,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\김찬\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
-      "C:\\Users\\김찬\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
-      "C:\\Users\\김찬\\AppData\\Local\\Symbols\\src"
-    ]
   }
 }]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity 2021.3.29f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/MacOS/Unity" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\김찬\Desktop\Unity\StudyWorld_unity -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\김찬\Desktop\Unity\StudyWorld_unity" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -54,7 +144,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity 2021.3.29f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.42f1/Unity.app/Contents/MacOS/Unity" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\김찬\Desktop\Unity\StudyWorld_unity -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\김찬\Desktop\Unity\StudyWorld_unity" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -66,6 +156,9 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -76,6 +169,9 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -92,13 +188,20 @@
       <updated>1694874484117</updated>
       <workItem from="1694874486573" duration="75000" />
       <workItem from="1694874579593" duration="4026000" />
+      <workItem from="1746837445077" duration="8641000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
