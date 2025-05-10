@@ -5,94 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcb1470b-f174-4301-bf49-1036c1bf047f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StudyWorld_unity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Async.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Async/AsyncBreakfast.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Async/AsyncBreakfast.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Bit_Build.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Bit_Build/Bit_Builder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Bit_Build/Bit_Builder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/Booster.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/Booster.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/Character.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/Character.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/LambdaExpression.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/DelegateEvent/LambdaExpression.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovPlayerController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovPlayerController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/FOVMesh/FovTest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor/SimpleUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor/SimpleUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor/StackCalculator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Interpretor/StackCalculator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/Bullet.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/Bullet.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/ObjectPool.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/ObjectPool.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/Shooter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/ObjectPooling/Shooter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/EventHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/EventHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/EventListener.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/EventListener.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/GameEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOEventSystem/GameEvent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/Door.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/Door.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/ISwitchable.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/ISwitchable.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/Switch.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/DIP/Switch.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IA.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IA.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IB.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IB.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IUnit.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/ISP/IUnit.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/Controller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/DerivedClass.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/DerivedClass.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/SuperClass.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/LSP/SuperClass.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/SingleResponsibility.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/SingleResponsibility/MonolithicDebugger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/SOLID/SingleResponsibility/MonolithicDebugger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Singleton.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Singleton/SingletonMono.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Singleton/SingletonMono.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Struct.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Struct/Struct.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Struct/Struct.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser/TagParser.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser/TagParser.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser/tmptest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/TagParser/tmptest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Value&amp;Ref.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Value&amp;Ref/OOPEx.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/Value&amp;Ref/OOPEx.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/boot.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/WireTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/WireTest.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Wire/WireHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Wire/WireHandler.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +103,7 @@
       <updated>1694874484117</updated>
       <workItem from="1694874486573" duration="75000" />
       <workItem from="1694874579593" duration="4026000" />
-      <workItem from="1746837445077" duration="8641000" />
+      <workItem from="1746837445077" duration="8863000" />
     </task>
     <servers />
   </component>

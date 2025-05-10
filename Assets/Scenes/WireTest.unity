@@ -518,6 +518,37 @@ HingeJoint:
   m_EnablePreprocessing: 1
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!1 &836639740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 836639741}
+  m_Layer: 0
+  m_Name: Destination
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &836639741
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 836639740}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.0000021457672, y: -0.0000010728836, z: 3.66}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &882718364
 GameObject:
   m_ObjectHideFlags: 0
@@ -1629,6 +1660,7 @@ MonoBehaviour:
   - {fileID: 237660574}
   numPoints: 10
   spacing: 0.5
+  destObj: {fileID: 836639740}
   targetObj: {fileID: 882718364}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -1639,3 +1671,4 @@ SceneRoots:
   - {fileID: 1751608013}
   - {fileID: 2146718172}
   - {fileID: 882718366}
+  - {fileID: 836639741}

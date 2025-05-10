@@ -16,7 +16,8 @@ namespace Wire
         private int numPoints = 10;
         [SerializeField]
         private float spacing = 0.5f;
-
+        [SerializeField] 
+        private GameObject destObj;
         [SerializeField] 
         private GameObject targetObj;
 
@@ -28,9 +29,9 @@ namespace Wire
            Shoot();
         }
         
-        public void Shoot()
+        private void Shoot()
         {
-            targetObj.transform.DOMove(Vector3.forward * 3f, 0.3f).SetEase(Ease.OutExpo);
+            targetObj.transform.DOMove(destObj.transform.position, 0.3f).SetEase(Ease.OutExpo);
             targetObj.transform.DOShakePosition(0.1f, 5f, 10, 0,
                 true, randomnessMode: ShakeRandomnessMode.Full);
         } 
